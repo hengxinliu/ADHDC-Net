@@ -49,9 +49,6 @@ d
 ```
 python train_all.py --gpu=0,1,2,3 --cfg=ADHDC_Net --batch_size=12
 ```
-"""
-python -m visdom.server -p 6666
-"""
 
 
 ### Test
