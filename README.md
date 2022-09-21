@@ -6,7 +6,7 @@ This repository is the work of "_Multiscale lightweight 3D segmentation algorith
 
 <center>Architecture of  ADHDC-Net</center>
 <div  align="center">  
- <img src="https://github.com/hengxinliu/ADHDC-Net/blob/main/fig/ADHDC_Net.jpg"
+ <img src="https://github.com/hengxinliu/ADHDC-Net/blob/main/fig/ADHDC-Net.jpg"
      align=center/>
 </div>
 
